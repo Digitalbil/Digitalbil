@@ -1,0 +1,65 @@
+# This is a basic workflow to help you get started with Actions
+10
+Digitalbil's profile
+My feed
+Discover
+Popular
+Most upvoted
+Best discussions
+Search
+Manage
+Bookmarks
+Reading history
+
+Customize
+Docs
+Changelog
+Feedback
+
+Invite people
+
+Silver
+Next level: Gold
+Share your #DevCard
+Your Dev Card
+Customize Style
+Embed
+<a href="https://app.daily.dev/Digitalbil"><img src="https://api.daily.dev/devcards/d46cebd8016a4523ae8f1b55130dd9de.png?r=nfy" width="400" alt="Bill Lennox's Dev Card"/></a>
+Add DevCard to your GitHub profile
+
+name: DevCard
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  permissions:
+  contents: write
+  
+  on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+    
+  jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.4
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
+          
