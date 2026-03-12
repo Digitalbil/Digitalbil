@@ -128,14 +128,14 @@ Ableton / Music    ████████████████░░░░ 
 
 ### `> TOP_LANGUAGES`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billlennox&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff88&title_color=00ff88&text_color=cccccc&langs_count=8" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digitalbil&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff88&title_color=00ff88&text_color=cccccc&langs_count=8" width="100%" />
 
 </td>
 <td width="50%">
 
 ### `> TROPHIES`
 
-<img src="https://github-profile-trophy.vercel.app/?username=billlennox&theme=matrix&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Digitalbil&theme=matrix&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" width="100%" />
 
 </td>
 </tr>
@@ -147,7 +147,7 @@ Ableton / Music    ████████████████░░░░ 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=billlennox&bg_color=0d0d0d&color=00ff88&line=00aaff&point=ffffff&area=true&area_color=00ff8820&hide_border=false&border_color=00ff88&custom_title=Commit%20Activity%20%2F%2F%20Digital%20Bill" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Digitalbil&bg_color=0d0d0d&color=00ff88&line=00aaff&point=ffffff&area=true&area_color=00ff8820&hide_border=false&border_color=00ff88&custom_title=Commit%20Activity%20%2F%2F%20Digital%20Bill" width="100%" />
 
 </div>
 
@@ -232,7 +232,7 @@ while (alive) {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,50:00ff88,100:0a0a0a&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <!-- VISITOR COUNTER -->
-![Visitor Count](https://komarev.com/ghpvc/?username=billlennox&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=Digitalbil&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)
 
 </div>
 
@@ -265,8 +265,8 @@ while (alive) {
   </tr>
 </table>
 </div>
-<div class="col" style="max-width:50%;">
-<table style="max-width:50%; width:45%; float:left;">
+<div class="col" style="max-width:100%;">
+<table style="max-width:100%; width:90%; float:none;">
   <tr>
     <td><a href="https://app.daily.dev/Digitalbil"><img src="https://api.daily.dev/devcards/d46cebd8016a4523ae8f1b55130dd9de.png?r=u71" width="400" alt="Bill Lennox's Dev Card"/></a></td>
   </tr>
